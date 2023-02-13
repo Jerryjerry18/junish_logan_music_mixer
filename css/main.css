@@ -1,6 +1,13 @@
-/* We typically use one CSS file, named main.css to control all of our pages */
+body {
 
-/* this is a class we use to hide headings in our design */
-.hidden {
-    display: none;
+    background-color: rgb(197, 179, 179);
+    
+}
+
+
+.footer {
+box-shadow: 2px 2px 1px;
+margin-right: 85%;
+
+
 }
